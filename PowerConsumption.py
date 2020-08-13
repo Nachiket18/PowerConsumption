@@ -6,7 +6,7 @@ import pandas as pd
 # Connection - Please add appropriate password 
 conn = psy.connect(dbname='powerconsumption',
                         user='postgres',
-                        password='tekihcan',
+                        password='',
                         host='localhost',
                         port='5432')
                         
